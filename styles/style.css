@@ -805,7 +805,7 @@ button.modal-window:focus,
 }
 
 .monopods::before {
-  background-image:url("/images/decorative-images/catalog-monopods.svg");
+  background-image:url("../images/decorative-images/catalog-monopods.svg");
 }
 
 .action-cameras::before {
